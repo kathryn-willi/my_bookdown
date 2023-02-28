@@ -11,6 +11,3 @@ description: "This is an example of using the bookdown package. The output forma
 # My Intro {-} 
 
 This is my example of a bookdown document. Blah blah blah.
-
-
-
